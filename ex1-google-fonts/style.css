@@ -1,1 +1,17 @@
 /* Start coding here */
+
+body {
+  font-family: 'Kodchasan', sans-serif;
+  line-height: 1.6;
+  margin: 20px;
+}
+
+h1 {
+  font-weight: 700;
+  color: #333;
+}
+
+p {
+  font-weight: 400;
+  margin-bottom: 15px;
+}
