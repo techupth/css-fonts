@@ -1,1 +1,28 @@
 /* Start coding here */
+
+@font-face {
+  font-family: 'iannnnnCPU';
+  src: url('./fonts/2005_iannnnnCPU.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'iannnnnCPU', monospace;
+  font-size: 18px;
+  line-height: 1.6;
+  margin: 20px;
+}
+
+h1 {
+  font-size: 3rem;
+  font-weight: normal;
+  color: #333;
+  margin-bottom: 1rem;
+}
+
+p {
+  font-size: 1.5rem;
+  font-weight: normal;
+  margin-bottom: 1rem;
+}
