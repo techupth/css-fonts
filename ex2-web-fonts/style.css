@@ -1,1 +1,11 @@
-/* Start coding here */
+@font-face {
+     src: url('././fonts/Redaction50-Italic.ttf');
+    font-family: 'MyCustomFont';
+
+}
+
+
+p{
+    font-family: 'MyCustomFont';
+    font-size: 20px
+}
